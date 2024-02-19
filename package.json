@@ -1,0 +1,19 @@
+{
+  "name": "waifu-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "sock": "^0.0.6",
+    "venom": "^0.1.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
