@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Waifu-bot/Popp100"><b>Suhail-Md</b></a> Prise en charge du déploiement sur...
+  <a href="https://github.com/Waifu-bot/Popp100"><b>Waifu-bot</b></a> Prise en charge du déploiement sur...
 </p>
 
 <p align="center">
